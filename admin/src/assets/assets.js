@@ -12,6 +12,9 @@ import appointments_icon from './appointments_icon.svg'
 import earning_icon from './earning_icon.svg'
 import patients_icon from './patients_icon.svg'
 
+export const currency = '₹'
+export const backendUrl = 'https://doctor-appointment-booking-system-backend-admr.onrender.com'
+
 export const assets = {
     add_icon,
     admin_logo,

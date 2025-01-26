@@ -7,6 +7,7 @@ const AppContextProvider = (props) => {
 
     const currency = import.meta.env.VITE_CURRENCY
     const backendUrl = import.meta.env.VITE_BACKEND_URL
+    const url = "https://doctor-appointment-booking-system-backend-admr.onrender.com"
 
     const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
